@@ -1,1 +1,6 @@
-second line
+public class helloworld{
+    public static void main(String [] args){
+        String name="aadhvikaadhyasri";
+        System.out.println("Hello,my name is"+name);
+    }
+}
